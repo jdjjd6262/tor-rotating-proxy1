@@ -1,6 +1,8 @@
-"stack": "container",
-  "formation": {
-    "worker": {
-      "quantity": 1
-    }
-  }
+{
+  "name": "heroku-docker-nginx-example",
+  "description": "A barebones nginx installation using Docker",
+  "repository": "https://github.com/jdjjd6262/tor-rotating-proxy1",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg",
+  "keywords": ["nginx", "docker", "proxy"],
+  "stack": "container"
+}
